@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.openshift.OpenshiftExampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.502 s -- in com.openshift.OpenshiftExampleApplicationTests
