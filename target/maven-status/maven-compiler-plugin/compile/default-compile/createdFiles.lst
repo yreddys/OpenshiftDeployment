@@ -1,2 +1,5 @@
-com\openshift\OpenshiftExampleApplication.class
+com\openshift\service\EmployeeService.class
 com\openshift\controller\ExampleController.class
+com\openshift\OpenshiftExampleApplication.class
+com\openshift\repo\EmployeeRepo.class
+com\openshift\entity\Employee.class
